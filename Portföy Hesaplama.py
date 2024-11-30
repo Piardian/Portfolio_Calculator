@@ -1,7 +1,7 @@
 from tkinter import *
 import tkinter as tk
 from tkinter import ttk
-import yfinance as yf
+import yfinance as yhf
 
 # Global değişkenler
 yeni_islem = True
